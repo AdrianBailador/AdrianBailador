@@ -1,6 +1,6 @@
 # Hello, I'm Adrián 👋🏽
 
-<img width=450 align="right" src="https://github.com/AdrianBailador/AdrianBailador/blob/master/programando.png" />
+<img width=450 height=300 align="right" src="https://github.com/AdrianBailador/AdrianBailador/blob/master/programando.png" />
 
 I am a computer engineer, I currently work as a Fullstack with about 3 years of experience.
 
