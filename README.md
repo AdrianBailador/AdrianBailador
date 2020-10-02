@@ -12,4 +12,5 @@ I am a computer engineer, I currently work as a Fullstack with about 3 years of 
 - 😄 Pronouns: he/him.
 - 🧱 Fun fact: I love playing video games.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borjag90&layout=compact&hide=jupyter%20notebook,scilab,java&theme=chartreuse-dark&langs_count=9)
 
