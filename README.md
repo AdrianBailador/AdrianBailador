@@ -13,4 +13,4 @@ I am a computer engineer, I currently work as a Fullstack with about 3 years of 
 - 😄 Pronouns: he/him.
 - 🧱 Fun fact: I love playing video games.
 
-
+</a>
