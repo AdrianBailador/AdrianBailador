@@ -13,4 +13,5 @@
 - 🧱 Fun fact: I love playing video games.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borjag90&layout=compact&hide=jupyter%20notebook,scilab,java&theme=chartreuse-dark&langs_count=9)
+<img width=270 height=270 align="right" src="https://github.com/AdrianBailador/AdrianBailador/blob/master/programando.png" />
 
