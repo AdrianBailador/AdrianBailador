@@ -1,8 +1,8 @@
 # Hello, I'm Adrián 👋🏽
 
-<img width=450 height=350 align="right" src="https://github.com/AdrianBailador/AdrianBailador/blob/master/programando.png" />
+<img width=450 height=400 align="right" src="https://github.com/AdrianBailador/AdrianBailador/blob/master/programando.png" />
 
-I am a computer engineer, I currently work as a Fullstack with about 3 years of experience.
+**I am a Software Engineer and Web Developer, I currently work as a Fullstack with 3 years of experience.**
 
 - 👨🏽‍🏫 I am currently working as a Fullstack, developing applications in ![CSharp](https://img.shields.io/badge/-CSharp-black?style=flat&logo=c), ![DotNET](https://img.shields.io/badge/-.NET-black?style=flat&logo=.net) and ![Android](https://img.shields.io/badge/-android-black?style=flat&logo=android).
 - 🌱 I am currently learning ![Kotlin](https://img.shields.io/badge/-kotlin-black?style=flat&logo=kotlin).
