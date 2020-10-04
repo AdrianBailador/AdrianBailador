@@ -7,7 +7,7 @@
   <img alt="Adrian's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="mailto:adrianbailador@hotmail.com">
-  <img alt="Adrian's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoft.svg" />
+  <img alt="Adrian's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />
 </a> 
 <br />
 
