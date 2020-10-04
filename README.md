@@ -11,10 +11,11 @@
   <img src="https://img.shields.io/badge/adrianbailador@hotmail.com-DDDDDD?logo=microsoft-outlook" title="Go To mail" alt="Adrian Bailador mail"/></a>
 - 😄 Pronouns: he/him.
 - 🧱 Fun fact: I love playing video games.
-
+<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borjag90&layout=compact&hide=jupyter%20notebook,scilab,java&theme=chartreuse-dark&langs_count=9)
   
    <a href="https://www.linkedin.com/in/adrianbailadorpanero/" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="28px" width="28px" />
   </a>
+  </p>
 
