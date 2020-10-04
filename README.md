@@ -13,5 +13,6 @@
 - 🧱 Fun fact: I love playing video games.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borjag90&layout=compact&hide=jupyter%20notebook,scilab,java&theme=chartreuse-dark&langs_count=9)
+   <a href="https://www.linkedin.com/in/adrianbailadorpanero/" target="blank" style='margin-right:4px'>
 
 
