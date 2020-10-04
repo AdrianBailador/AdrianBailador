@@ -1,6 +1,15 @@
 # Hello, I'm Adrián 👋🏽
 
-
+<a href="https://www.linkedin.com/in/adrianbailadorpanero/" target="_blank">
+  <img alt="Adrian's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.github/AdrianBailador/">
+  <img alt="Adrian's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="mailto:adrianbailador@hotmail.com">
+  <img alt="Adrian's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoft-outlook.svg" />
+</a> 
+<br />
 
 **I am a Software Engineer and Web Developer, I currently work as a 👨🏽‍💻 Fullstack with 3 years of experience.**
 
@@ -13,10 +22,5 @@
 - 🧱 Fun fact: I love playing video games.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borjag90&layout=compact&hide=jupyter%20notebook,scilab,java&theme=chartreuse-dark&langs_count=9)
-  <p align="center">
-   <a href="https://www.linkedin.com/in/adrianbailadorpanero/" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="28px" width="28px" />
-  </a>
-  </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianBailador&layout=compact&hide=jupyter%20notebook,scilab,java&theme=chartreuse-dark&langs_count=9)
 
