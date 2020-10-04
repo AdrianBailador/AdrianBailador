@@ -3,11 +3,11 @@
 <a href="https://www.linkedin.com/in/adrianbailadorpanero/" target="_blank">
   <img alt="Adrian's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.github/AdrianBailador/">
+<a href="https://github.com/AdrianBailador">
   <img alt="Adrian's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="mailto:adrianbailador@hotmail.com">
-  <img alt="Adrian's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoft-outlook.svg" />
+  <img alt="Adrian's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoft.svg" />
 </a> 
 <br />
 
