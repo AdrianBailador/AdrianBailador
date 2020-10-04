@@ -19,7 +19,7 @@
 - 📫 Contact me <a href="mailto:adrianbailador@hotmail.com" alt="Adrian Bailador mail">
   <img src="https://img.shields.io/badge/adrianbailador@hotmail.com-DDDDDD?logo=microsoft-outlook" title="Go To mail" alt="Adrian Bailador mail"/></a>
 - 😄 Pronouns: he/him.
-- 🧱 Fun fact: I love playing video games.
+- 🧱 Fun fact: I love playing video games 🎮 and playing soccer ⚽.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianBailador&layout=compact&hide=jupyter%20notebook,scilab,java&theme=chartreuse-dark&langs_count=9)
