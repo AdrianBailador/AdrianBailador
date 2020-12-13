@@ -11,7 +11,7 @@
 </a> 
 <br />
 
-**I am a Software Engineer and Web Developer, I currently work as a 👨🏽‍💻 Fullstack with 3 years of experience.**
+**I am a Software Engineer and Web Developer, I currently work as 👨🏽‍💻 Fullstack with more than 3 years of experience.**
 
 - 👨🏽‍🏫 I am currently working as a Fullstack, developing applications in ![CSharp](https://img.shields.io/badge/-CSharp-black?style=flat&logo=c), ![DotNET](https://img.shields.io/badge/-.NET-black?style=flat&logo=.net) and ![Android](https://img.shields.io/badge/-android-black?style=flat&logo=android).
 - 🌱 I am currently learning ![Kotlin](https://img.shields.io/badge/-kotlin-black?style=flat&logo=kotlin).
