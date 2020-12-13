@@ -22,5 +22,5 @@
 - 🧱 Fun fact: I love playing video games 🎮 and playing soccer ⚽.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianBailador&layout=compact&hide=jupyter%20notebook,scilab,java&theme=chartreuse-dark&langs_count=9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianBailador&layout=compact&hide=jupyter%20notebook,scilab,java&theme=chartreuse-dark&langs_count=10)
 
