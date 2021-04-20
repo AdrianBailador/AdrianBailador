@@ -21,6 +21,29 @@
 - 😄 Pronouns: he/him.
 - 🧱 Fun fact: I love playing video games 🎮 and playing soccer ⚽.
 
+### More about my skills
+
+<details>
+	<summary>Other Skills</summary>
+  <img src="https://img.shields.io/badge/-HTML5-E44D27?style=flat-square&logo=html5&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/-CSS3-0391cb?style=flat-square&logo=css3&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/-Bootstrap-563173?style=flat-square&logo=bootstrap&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/-Vue-41bb83?style=flat-square&logo=vue.js&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/-MongoDB-3f2e1e?style=flat-square&logo=mongodb&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-MySQL-015e85?style=flat-square&logo=mysql&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/-PostgreSQL-2f5e8e?style=flat-square&logo=postgresql&logoColor=ffffff">
+</details>
+
+<details>
+	<summary>Systems & Utilities</summary>
+  <ul>
+    <li>Visual Studio Code.</li>
+    <li>Sublime Text 3.</li>
+    <li>Postman.</li>
+    <li>Insomnia.</li>
+    <li><b>Systems</b>: Windows, ElementaryOS, Ubuntu.</li>
+  </ul>
+</details>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianBailador&layout=compact&hide=jupyter%20notebook,scilab,java&theme=chartreuse-dark&langs_count=10)
 
