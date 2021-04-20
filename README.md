@@ -17,7 +17,7 @@
 - 🌱 I am currently learning ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) and ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js).
 - 👨🏽‍💻 Working with ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript), ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git), ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat&logo=gitlab), ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=microsoft-sql-server), ![Mongdb](https://img.shields.io/badge/-mongodb-black?style=flat&logo=mongodb) and ![Mysql](https://img.shields.io/badge/-mysql-black?style=flat&logo=mysql).
 - 📫 Contact me <a href="mailto:adrianbailador@hotmail.com" alt="Adrian Bailador mail">
-  <img src="https://img.shields.io/badge/adrianbailador@hotmail.com-DDDDDD?logo=microsoft-outlook" title="Go To mail" alt="Adrian Bailador mail"/></a>.
+  <img src="https://img.shields.io/badge/adrianbailador@hotmail.com-black?logo=microsoft-outlook&logoColor=0078D4" title="Go To mail" alt="Adrian Bailador mail"/></a>.
 - 😄 Pronouns: he/him.
 - 🧱 Fun fact: I love playing video games 🎮 and playing soccer ⚽.
 
