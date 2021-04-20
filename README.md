@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/-Bootstrap-563173?style=flat-square&logo=bootstrap&logoColor=ffffff">
   <img src="https://img.shields.io/badge/-Vue-41bb83?style=flat-square&logo=vue.js&logoColor=ffffff">  
   <img src="https://img.shields.io/badge/-PostgreSQL-2f5e8e?style=flat-square&logo=postgresql&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/-Firebase-2f5e8e?style=flat-square&logo=Firebase&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=ffffff">
 </details>
 
 <details>
