@@ -15,9 +15,9 @@
 
 - 👨🏽‍🏫 I am currently working as a Fullstack, developing applications in ![CSharp](https://img.shields.io/badge/-CSharp-black?style=flat&logo=c#), ![DotNET](https://img.shields.io/badge/-.NET-black?style=flat&logo=.net) and ![Android](https://img.shields.io/badge/-android-black?style=flat&logo=android).
 - 🌱 I am currently learning ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) and ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js).
-- 👨🏽‍💻 Working with ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript), ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git), ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat&logo=gitlab), ![Mongdb](https://img.shields.io/badge/-mongodb-black?style=flat&logo=mongodb) and ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=microsoft-sql-server).
+- 👨🏽‍💻 Working with ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript), ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git), ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat&logo=gitlab), ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=microsoft-sql-server), ![Mongdb](https://img.shields.io/badge/-mongodb-black?style=flat&logo=mongodb) and ![Mysql](https://img.shields.io/badge/-mysql-black?style=flat&logo=mysql).
 - 📫 Contact me <a href="mailto:adrianbailador@hotmail.com" alt="Adrian Bailador mail">
-  <img src="https://img.shields.io/badge/adrianbailador@hotmail.com-DDDDDD?logo=microsoft-outlook" title="Go To mail" alt="Adrian Bailador mail"/></a>
+  <img src="https://img.shields.io/badge/adrianbailador@hotmail.com-DDDDDD?logo=microsoft-outlook" title="Go To mail" alt="Adrian Bailador mail"/></a>.
 - 😄 Pronouns: he/him.
 - 🧱 Fun fact: I love playing video games 🎮 and playing soccer ⚽.
 
@@ -28,9 +28,7 @@
   <img src="https://img.shields.io/badge/-HTML5-E44D27?style=flat-square&logo=html5&logoColor=ffffff">
   <img src="https://img.shields.io/badge/-CSS3-0391cb?style=flat-square&logo=css3&logoColor=ffffff">
   <img src="https://img.shields.io/badge/-Bootstrap-563173?style=flat-square&logo=bootstrap&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/-Vue-41bb83?style=flat-square&logo=vue.js&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/-MongoDB-3f2e1e?style=flat-square&logo=mongodb&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-MySQL-015e85?style=flat-square&logo=mysql&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/-Vue-41bb83?style=flat-square&logo=vue.js&logoColor=ffffff">  
   <img src="https://img.shields.io/badge/-PostgreSQL-2f5e8e?style=flat-square&logo=postgresql&logoColor=ffffff">
   <img src="https://img.shields.io/badge/-Firebase-2f5e8e?style=flat-square&logo=Firebase&logoColor=ffffff">
 </details>
