@@ -1,16 +1,5 @@
 # Hello, I'm Adrián 👋🏽
 
-<a href="https://www.linkedin.com/in/adrianbailadorpanero/" target="_blank">
-  <img alt="Adrian's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/AdrianBailador">
-  <img alt="Adrian's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="mailto:adrianbailador@hotmail.com">
-  <img alt="Adrian's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />
-</a> 
-<br />
-
 **I am a Software Engineer and Web Developer, I currently work as 👨🏽‍💻 Fullstack with more than 3 years of experience.**
 
 - 👨🏽‍🏫 I am currently working as a Fullstack, developing applications in ![CSharp](https://img.shields.io/badge/-CSharp-black?style=flat&logo=c#), ![DotNET](https://img.shields.io/badge/-.NET-black?style=flat&logo=.net) and ![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=android).
@@ -18,7 +7,6 @@
 - 👨🏽‍💻 Working with ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript), ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git), ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat&logo=gitlab), ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=microsoft-sql-server), ![Mongdb](https://img.shields.io/badge/-Mongodb-black?style=flat&logo=mongodb) and ![Mysql](https://img.shields.io/badge/-Mysql-black?style=flat&logo=mysql).
 - 📫 Contact me <a href="mailto:adrianbailador@hotmail.com" alt="Adrian Bailador mail">
   <img src="https://img.shields.io/badge/adrianbailador@hotmail.com-black?logo=microsoft-outlook&logoColor=0078D4" title="Go To mail" alt="Adrian Bailador mail"/></a>.
-- 😄 Pronouns: he/him.
 - 🧱 Fun fact: I love playing video games 🎮 and playing soccer ⚽.
 
 #### Let's talk!
