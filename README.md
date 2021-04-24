@@ -26,37 +26,56 @@
    <p>
         <a href="https://www.linkedin.com/in/adrianbailadorpanero/" target="_blank">
             <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" />
-        </a>
-        <a href="https://github.com/AdrianBailador" target="_blank">
-            <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/github.svg" />
-        </a>
+        </a>      
         <a href="mailto:adrianbailador@hotmail.com" target="_blank">
-           <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/microsoftoutlook.svg" />
+           <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/outlook.svg" />
        </a>
    </p>
+   
+   #### Pronouns
 
-### More about my skills
+   <p>
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/pronouns/sheher.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/pronouns/theythem.svg" />
+   </p>
+   
 
-<details>
-	<summary>Other Skills</summary>
-  <img src="https://img.shields.io/badge/-HTML5-E44D27?style=flat-square&logo=html5&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/-CSS3-0391cb?style=flat-square&logo=css3&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/-Bootstrap-563173?style=flat-square&logo=bootstrap&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/-Vue-41bb83?style=flat-square&logo=vue.js&logoColor=ffffff">  
-  <img src="https://img.shields.io/badge/-PostgreSQL-2f5e8e?style=flat-square&logo=postgresql&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=ffffff">
-</details>
+#### Working with
 
-<details>
-	<summary>Systems & Utilities</summary>
-  <ul>
-    <li>Visual Studio Code.</li>
-    <li>Sublime Text 3.</li>
-    <li>Postman.</li>
-    <li>Insomnia.</li>
-    <li><b>Systems</b>: Windows, ElementaryOS, Ubuntu.</li>
-  </ul>
-</details>
+   <p>
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp_dotnet.svg" />   
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/wpf.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/azure.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/angular.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" />      
+   </p>
+   
+#### Doing
+
+   <p>
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/web.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/desktop.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/mobile.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/gamedev.svg" />
+   </p>
+
+#### Using
+
+   <p>
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/linqpad.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/powershell.svg" />
+	<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/eclipse.svg" />
+	<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/vmware.svg" />
+	<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" />
+	<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/android_studio_colour.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/pc.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/playstation.svg" />
+   </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianBailador&layout=compact&hide=jupyter%20notebook,scilab,java&theme=chartreuse-dark&langs_count=10)
 
