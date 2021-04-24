@@ -21,6 +21,20 @@
 - 😄 Pronouns: he/him.
 - 🧱 Fun fact: I love playing video games 🎮 and playing soccer ⚽.
 
+#### Let's talk!
+
+   <p>
+        <a href="https://www.linkedin.com/in/adrianbailadorpanero/" target="_blank">
+            <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" />
+        </a>
+        <a href="https://github.com/AdrianBailador" target="_blank">
+            <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/github.svg" />
+        </a>
+        <a href="mailto:adrianbailador@hotmail.com" target="_blank">
+           <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/microsoftoutlook.svg" />
+       </a>
+   </p>
+
 ### More about my skills
 
 <details>
