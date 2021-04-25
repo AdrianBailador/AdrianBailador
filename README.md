@@ -23,7 +23,7 @@
    #### Pronouns
 
    <p>
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/pronouns/sheher.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/pronouns/hehim.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/pronouns/theythem.svg" />
    </p>
    
