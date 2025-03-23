@@ -4,8 +4,8 @@
 
 - 👨🏽‍🏫 I am currently working as a Fullstack, developing applications in ![CSharp](https://img.shields.io/badge/-CSharp-black?style=flat&logo=c#), ![DotNET](https://img.shields.io/badge/-.NET-black?style=flat&logo=.net) and ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react).
 - 🌱 I am currently learning ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js), ![Astro](https://img.shields.io/badge/-Astro-black?style=flat&logo=astro) and ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js).
-- 👨🏽‍💻 Working with ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript), ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git), ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat&logo=gitlab), ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=microsoft-sql-server), ![Mongdb](https://img.shields.io/badge/-Mongodb-black?style=flat&logo=mongodb) and ![Mysql](https://img.shields.io/badge/-Mysql-black?style=flat&logo=mysql).
-- 📫 Contact me <a href="mailto:adrianbailador@hotmail.com" alt="Adrian Bailador mail">
+- 👨🏽‍💻 Working with ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript), ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git), ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat&logo=gitlab), ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=microsoft-sql-server), ![Mongdb](https://img.shields.io/badge/-Mongodb-black?style=flat&logo=mongodb) and ![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat&logo=oracle).
+- 📫 Contact me <a href="mailto:abailador.dev@gmail.com" alt="Adrian Bailador mail">
   <img src="https://img.shields.io/badge/adrianbailador@hotmail.com-black?logo=microsoft-outlook&logoColor=0078D4" title="Go To mail" alt="Adrian Bailador mail"/></a>.
 - 🧱 Fun fact: I love playing video games 🎮 and playing soccer ⚽.
 
