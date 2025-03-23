@@ -18,6 +18,10 @@
         <a href="mailto:adrianbailador@hotmail.com" target="_blank">
            <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/outlook.svg" />
        </a>
+         <a href="mailto:abailador.dev@gmail.com" target="_blank">
+           <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" />
+       </a>
+	   
    </p>
    
    #### Pronouns
