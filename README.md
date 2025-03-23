@@ -8,6 +8,7 @@
 - 📫 Contact me <a href="mailto:abailador.dev@gmail.com" alt="Adrian Bailador mail">
   <img src="https://img.shields.io/badge/abailador.dev@gmail.com-black?logo=microsoft-outlook&logoColor=0078D4" title="Go To mail" alt="Adrian Bailador mail"/></a>.
 - 🧱 Fun fact: I love playing video games 🎮 and playing soccer ⚽.
+- 📝 My blog: Here you can read my latest articles about technology. <a href="[mailto:abailador.dev@gmail.com](https://adrianbailador.github.io/)" alt="Adrian Bailador blog">
 
 #### Let's talk!
 
