@@ -1,77 +1,144 @@
-# Hello, I'm Adrian 👋🏽
+# 💻 Adrian Bailador - FullStack Developer 🚀
 
-**I am a Software Engineer and Web Developer, I currently work as 👨🏽‍💻 Fullstack with more than 6 years of experience.**
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;6%2B+Years+Experience;C%23+%7C+.NET+%7C+React+Enthusiast;Building+Scalable+Solutions)
 
-- 👨🏽‍🏫 I am currently working as a Fullstack, developing applications in ![CSharp](https://img.shields.io/badge/-CSharp-black?style=flat&logo=c#), ![DotNET](https://img.shields.io/badge/-.NET-black?style=flat&logo=.net) and ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react).
-- 🌱 I am currently learning ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js), ![Astro](https://img.shields.io/badge/-Astro-black?style=flat&logo=astro) and ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js).
-- 👨🏽‍💻 Working with ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript), ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git), ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat&logo=gitlab), ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=microsoft-sql-server), ![Mongdb](https://img.shields.io/badge/-Mongodb-black?style=flat&logo=mongodb) and ![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat&logo=oracle).
-- 📫 Contact me <a href="mailto:abailador.dev@gmail.com" alt="Adrian Bailador mail">
-  <img src="https://img.shields.io/badge/abailador.dev@gmail.com-black?logo=microsoft-outlook&logoColor=0078D4" title="Go To mail" alt="Adrian Bailador mail"/></a>.
-- 🧱 Fun fact: I love playing video games 🎮 and playing soccer ⚽.
-- 📝 My blog: Here you can read my latest articles about technology. <a href="https://adrianbailador.github.io/" alt="Adrian Bailador blog">My blog</a>.
+</div>
 
+---
 
-#### Let's talk!
+## 👨🏽‍💻 About Me
 
-   <p>
-        <a href="https://www.linkedin.com/in/adrianbailadorpanero/" target="_blank">
-            <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" />
-        </a>      
-        <a href="mailto:adrianbailador@hotmail.com" target="_blank">
-           <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/outlook.svg" />
-       </a>
-         <a href="mailto:abailador.dev@gmail.com" target="_blank">
-           <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" />
-       </a>
-	   
-   </p>
-   
-   #### Pronouns
+I'm a **Software Engineer** passionate about creating scalable and efficient solutions. With over **6 years of experience** developing fullstack applications, I specialize in modern technologies and best development practices.
+```javascript
+const adrian = {
+    role: "Fullstack Developer",
+    location: "🌍 Ireland",
+    experience: "6+ years",
+    currentFocus: ["C#", ".NET", "React"],
+    learning: ["Next.js", "Astro", ".NET"],
+    interests: ["Clean Code", "System Design", "Game Dev"],
+    hobbies: ["🎮 Gaming", "⚽ Soccer", "📝 Tech Writing"]
+};
+```
 
-   <p>
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/pronouns/hehim.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/pronouns/theythem.svg" />
-   </p>
-   
+---
 
-#### Working with
+## 🛠️ Tech Stack
 
-   <p>
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp_dotnet.svg" />   
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/wpf.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/azure.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/aws.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" /> 
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" />    
-   </p>
-   
-#### Doing
+### **Languages & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-   <p>
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/web.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/desktop.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/mobile.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/gamedev.svg" />
-   </p>
+### **Databases & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
 
-#### Using
+### **Tools & Technologies**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+</p>
 
-   <p>
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/linqpad.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/powershell.svg" />
-	<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/eclipse.svg" />
-	<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/vmware.svg" />
-	<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" />
-	<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/android_studio_colour.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/pc.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/playstation.svg" />
-   </p>
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianBailador&layout=compact&hide=jupyter%20notebook,scilab,java&theme=chartreuse-dark&langs_count=10)
+## 🚀 What I'm Up To
 
+- 🔭 Currently developing enterprise applications with **.NET** and **React**
+- 🌱 Deep diving into **Next.js**, **Astro**, and modern architectures
+- 👯 Open to collaborate on **open source** projects
+- 💬 Ask me about **C#, .NET, React, Clean Architecture, SQL**
+- 📝 I regularly write articles on [my blog](https://adrianbailador.github.io/)
+- ⚡ Fun fact: **Gaming nights = Best debugging sessions** 🎮
+
+---
+
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adrianbailadorpanero/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:abailador.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="mailto:adrianbailador@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
+  </a>
+  <a href="https://adrianbailador.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
+  </a>
+</p>
+
+---
+
+## 💼 Experience Highlights
+```yaml
+current_role:
+  position: Fullstack Developer
+  focus: [C#, .NET, React, SQL Server]
+  responsibilities:
+    - Enterprise application development
+    - Scalable architecture design
+    - Cloud services integration (Azure/AWS)
+    - Code reviews and mentoring
+
+expertise:
+  backend: [C#, .NET Core, Web APIs, Entity Framework]
+  frontend: [React, JavaScript, HTML5, CSS3, Bootstrap]
+  databases: [SQL Server, MongoDB, Oracle]
+  devops: [Docker, Git, CI/CD, Azure DevOps]
+  methodologies: [Agile, SCRUM, Clean Code, SOLID]
+```
+
+---
+
+## 🎯 Development Focus
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🖥️ Backend</h3>
+      <p>Building robust APIs and microservices with C# and .NET Core</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🎨 Frontend</h3>
+      <p>Creating responsive and interactive UIs with React and modern JS</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>☁️ Cloud</h3>
+      <p>Deploying and managing applications on Azure and AWS</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=AdrianBailador&color=blueviolet&style=for-the-badge)
+
+</div>
